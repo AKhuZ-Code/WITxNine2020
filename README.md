@@ -20,7 +20,8 @@ Date: 31/10/2020
 
 (Given a dataset on website traffic from the Sydney Morning Herald...)
 
-<b>1. Can you take a period of historical data and build a detector that flags unusual user behavior or Impossible Subscribers? 
+<b>
+1. Can you take a period of historical data and build a detector that flags unusual user behavior or Impossible Subscribers? 
   
 2. Can you build a classifier that can suggest what type of user they are?
 
