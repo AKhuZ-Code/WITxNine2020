@@ -21,13 +21,16 @@ Date: 31/10/2020
 (Given a dataset on website traffic from the Sydney Morning Herald...)
 
 <b>
+  
 1. Can you take a period of historical data and build a detector that flags unusual user behavior or Impossible Subscribers? 
   
 2. Can you build a classifier that can suggest what type of user they are?
 
 3. Can you detect bots that declare themselves versus bots that are being sneaky? 
 
-4. Can you see potential new subscription product offerings emerge from the data?</b>
+4. Can you see potential new subscription product offerings emerge from the data?
+
+</b>
 
 • For our analysis, I worked on the Exploratory Data Analysis to inform our product offerings, while other teammates worked on the modelling and qualitative research.
 
